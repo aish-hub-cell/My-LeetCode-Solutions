@@ -41,7 +41,7 @@ Constraints:
 n == differences.length
 1 <= n <= 105
 -10^5 <= differences[i] <= 10^5
--10^5 <= lower <= upper <= 105
+-10^5 <= lower <= upper <= 10^5
 """
 
 class Solution(object):
